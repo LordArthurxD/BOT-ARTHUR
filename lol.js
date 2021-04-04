@@ -30,8 +30,8 @@ const vcard = 'BEGIN:VCARD\n'  // Jangan di ubah biar ga error
             + 'END:VCARD' // jangan di ubah
 //Setingan\\
 apikey = 'MrSomething404' 
-prefix = '#' 
-owner = '6285939888897' 
+prefix = ',' 
+owner = '5491153251742' 
 cr = 'LoL-Human Team'
 //Setingan\\
 //------LOAD-------\\
