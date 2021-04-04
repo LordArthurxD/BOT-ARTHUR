@@ -8,6 +8,7 @@ const help = (prefix, pushname2, premi, uptime, tanggal, pepolu ) => {
 ├ •Prefix  :  *${prefix}*
 │
 ├───「 *COMMAND* 」─────
+      🄱🄾🅃-🄰🅁🅃🄷🅄🅁
 │
 ├ • *${pepolu}* command
 │
